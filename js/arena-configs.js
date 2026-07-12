@@ -1,7 +1,7 @@
 /**
  * Arena Configurations
  * Auto-generated from maDisplayTools/configs/arenas/ and arena_registry/
- * Last updated: 2026-07-05T00:22:25.965Z
+ * Last updated: 2026-07-12T01:27:08.309Z
  *
  * DO NOT EDIT MANUALLY - regenerate with: node scripts/generate-arena-configs.js
  */
